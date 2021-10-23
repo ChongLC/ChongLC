@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there, I am Chong 👋
+
+### About Me
+I am a biologist 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChongLC&layout=compact)](https://github.com/ChongLC/github-readme-stats)
+
+
 
 <!--
 **ChongLC/ChongLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
