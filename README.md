@@ -18,7 +18,7 @@
 ---
 
 ### GitHub Stats
-![ChongLC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChongLC&show_icons=true&theme=radical)
+![ChongLC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChongLC&hide=prs,issues&show_icons=true&theme=radical)
 
 
 <!--
