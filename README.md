@@ -1,13 +1,15 @@
-<h1 align="left"> Li Chuin CHONG </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+Black&color=%2336BCF7&size=30&vCenter=true&lines=Virus+Bioinformatician;Life+Science+Researcher;Biomedical+Scientist)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/lichuinchong-30302f?style=flat&logo=linkedin&link=https://www.linkedin.com/in/lichuinchong/)](https://www.linkedin.com/in/lichuinchong/)
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Li-Chong-5)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?hl=en&user=NSDlr5IAAAAJ)
 
 ### About Me
-* I am an incoming doctoral researcher and PhD candidate under [COVIPA consortium](https://www.dkfz.de/en/covipa/subproject4.html). 
-* My research interest: `virology` `bioinformatics` 
-* I am currently learning: `viral genomics` `machine learning` and last but no least `German language`
+* I am an incoming doctoral researcher and PhD candidate under [COVIPA consortium](https://www.dkfz.de/en/covipa/subproject4.html).
+* My research interest: <br>
+  `virology` `bioinformatics` `host pathogen interaction` `vaccine target discovery` `immunoinformatics`
+* I am currently learning: <br>
+  `viral genomics` `machine learning` `German language`
 
 ### Connect with Me
 <p align="left">
@@ -22,6 +24,6 @@
 
 
 <!--
-
+* My research interest: `virology` `bioinformatics`
 [![Twitter Badge](https://img.shields.io/badge/-@lichuin_chong-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lichuin_chong)](https://twitter.com/lichuin_chong)
 -->
