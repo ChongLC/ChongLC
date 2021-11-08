@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LI-lichuinchong-informational?style=flat&logo=linkedin&color=0A66C2&link=https://www.linkedin.com/in/lichuinchong/)](https://www.linkedin.com/in/lichuinchong/)
 ![ResearchGate Badge](https://img.shields.io/badge/RG-Li_Chuin_Chong-informational?style=flat&logo=ResearchGate&logoColor=white&color=00CCBB&link=https://www.researchgate.net/profile/Li-Chong-5)
 ![Google Scholar Badge](https://img.shields.io/badge/GS-Li_Chuin_Chong-informational?style=flat&logo=GoogleScholar&logoColor=white&color=4285F4&link=https://scholar.google.com/citations?hl=en&user=NSDlr5IAAAAJ)
+![Github Page Badge](https://img.shields.io/badge/Github.io-Chong'sPortfolio-informational?style=flat&logo=GithubPages&logoColor=white&color=4285F4&link=https://scholar.google.com/citations?hl=en&user=NSDlr5IAAAAJ)
 
 ### About Me
 * I am an incoming doctoral researcher and PhD candidate under [COVIPA consortium](https://www.dkfz.de/en/covipa/subproject4.html).
