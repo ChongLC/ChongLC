@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+Black&color=%2336BCF7&size=30&vCenter=true&lines=Virus+Bioinformatician;Life+Science+Researcher;Biomedical+Scientist)](https://git.io/typing-svg)
+# Virus Bioinformatician | Life Science Researcher | Biomedical Scientist
 
 [![Linkedin Badge](https://img.shields.io/badge/LI-lichuinchong-informational?style=flat&logo=linkedin&color=0A66C2&link=https://www.linkedin.com/in/lichuinchong/)](https://www.linkedin.com/in/lichuinchong/)
 [![ResearchGate Badge](https://img.shields.io/badge/RG-Li_Chuin_Chong-informational?style=flat&logo=ResearchGate&logoColor=white&color=00CCBB&link=https://www.researchgate.net/profile/Li-Chong-5)](https://www.researchgate.net/profile/Li-Chong-5)
@@ -34,6 +34,9 @@
 </p>
 
 <!--
+#Fancy Typing
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+Black&color=%2336BCF7&size=30&vCenter=true&lines=Virus+Bioinformatician;Life+Science+Researcher;Biomedical+Scientist)](https://git.io/typing-svg)
+
 #Alternative
 [![Twitter Badge](https://img.shields.io/badge/-@lichuin_chong-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lichuin_chong)](https://twitter.com/lichuin_chong)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChongLC&&hide=html&title_color=FF4595&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
