@@ -25,7 +25,12 @@
 ![](https://img.shields.io/badge/EDA-R_ggplot2-informational?style=flat&logo=R&logoColor=white&color=276DC3)
 
 ### GitHub Stats
-![ChongLC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChongLC&hide=prs,issues&show_icons=true&theme=radical)
+<table>
+  <thead>
+    <th><img src="http://github-readme-streak-stats.herokuapp.com?user=ChongLC&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D"></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=ChongLC&show_icons=true&theme=vision-friendly-dark"></th>
+   <thread>
+<table>
 
 ### Connect with Me
 <p align="left">
