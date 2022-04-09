@@ -6,7 +6,7 @@
 [![Github Page Badge](https://img.shields.io/badge/Github.io-Chong's_Portfolio-informational?style=flat&logo=Github&logoColor=white&color=4285F4&link=https://chonglc.github.io/)](https://chonglc.github.io/)
 
 ### About Me
-* I am an incoming doctoral researcher and PhD candidate under [COVIPA consortium](https://www.dkfz.de/en/covipa/subproject4.html).
+* I am a doctoral researcher and PhD candidate under [COVIPA consortium](https://www.dkfz.de/en/covipa/subproject4.html).
 * My research interest: <br>
   `virology` `bioinformatics` `host pathogen interaction` `vaccine target discovery` `immunoinformatics`
 * I am currently learning: <br>
