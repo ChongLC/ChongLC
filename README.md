@@ -7,10 +7,11 @@
 
 ### About Me
 * I am a doctoral researcher and PhD candidate under [COVIPA consortium](https://www.dkfz.de/en/covipa/subproject4.html).
+* I work on large-scale virus discovery and spillover risk assessment from public sequence data.
 * My research interest: <br>
-  `virology` `bioinformatics` `host pathogen interaction` `vaccine target discovery` `immunoinformatics`
+  `virology` `virus discovery` `viral evolution` `vaccine target discovery` `immunoinformatics`
 * I am currently learning: <br>
-  `viral genomics` `machine learning` `German language`
+  `AI/ML` `deep learning`
 
 ### Technology Skills
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=007ACC)
@@ -23,14 +24,6 @@
 ![](https://img.shields.io/badge/EDA-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=150458)
 ![](https://img.shields.io/badge/EDA-NumPy-informational?style=flat&logo=Numpy&logoColor=white&color=013243)
 ![](https://img.shields.io/badge/EDA-R_ggplot2-informational?style=flat&logo=R&logoColor=white&color=276DC3)
-
-### GitHub Stats
-<table>
-  <thead>
-    <th><img src="http://github-readme-streak-stats.herokuapp.com?user=ChongLC&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D"></th>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=ChongLC&show_icons=true&theme=vision-friendly-dark"></th>
-   <thread>
-<table>
 
 ### Connect with Me
 <p align="left">
